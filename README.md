@@ -1,2 +1,2 @@
 # Hello-World
-My entry to Git-Hub
+My entry in to Git-Hub
